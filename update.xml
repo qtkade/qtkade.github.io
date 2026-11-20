@@ -9,7 +9,7 @@ https://github.com/qtkade/qtkade.github.io/releases/download/1.0.0/V-Light.X64.S
 https://github.com/qtkade/qtkade.github.io/releases/download/1.0.0/V-Light.X64.Setup.5.11.2.31.exe.updater_signature
 </sigUrl>
 <title>Version 1.0.0 is available</title>
-<text>* Fix port selector on Windows</text>
+<text>* Fix port selector on Windows app</text>
 <softwareVersion>lt0.0.0</softwareVersion>
 </update>
 </updates>
