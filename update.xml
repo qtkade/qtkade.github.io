@@ -3,10 +3,10 @@
 <id>1</id>
 <url>https://github.com/qtkade/qtkade.github.io/releases/</url>
 <pkgUrl>
-https://github.com/qtkade/qtkade.github.io/releases/download/1.0.0/V-Light.X64.Setup.5.11.2.32.exe
+https://github.com/qtkade/qtkade.github.io/releases/download/5.11.2.32/V-Light.X64.Setup.5.11.2.32.exe
 </pkgUrl>
 <sigUrl>
-https://github.com/qtkade/qtkade.github.io/releases/download/1.0.0/V-Light.X64.Setup.5.11.2.32.exe.updater_signature
+https://github.com/qtkade/qtkade.github.io/releases/download/5.11.2.32/V-Light.X64.Setup.5.11.2.32.exe.updater_signature
 </sigUrl>
 <title>Version 5.11.2.32 is available</title>
 <text>* اضافه شدن تشخیص خودکار دستگاه\n* رفع چند باگ</text>
