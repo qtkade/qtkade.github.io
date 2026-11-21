@@ -11,8 +11,8 @@ https://github.com/qtkade/qtkade.github.io/releases/download/5.11.2.32/V-Light.X
 <title>Version 5.11.2.32 is available</title>
 <text>نسخه جدید: رفع مشکل آپدیت خودکار!</text>
 <softwareVersion>lt5.11.2.32</softwareVersion>
-<!-- </update>
-<update>
+</update>
+<!-- <update>
 <id>1</id>
 <url>https://github.com/qtkade/qtkade.github.io/releases/</url>
 <pkgUrl>
